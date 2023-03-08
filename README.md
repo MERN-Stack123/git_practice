@@ -2,10 +2,10 @@
 ## use this dummy project/file and performe your task using git command 
 
 ## Basic command
-**ls :** ##### *list down data of current working directory*
-**ls -a :** *list down hidden repo also*
-**pwd :** *path of current working directory*
-**cd :** *change directory to given path*
+**ls :** list down data of current working directory*
+**ls -a :** list down hidden repo also*
+**pwd :** path of current working directory*
+**cd :** change directory to given path*
 **clear :** to clear the terminal
 **cd .. :** go back one step
 **cd / :** go back to into the root directory
