@@ -3,8 +3,8 @@
 
 ## Basic command
 **ls :** 
-*list down data of current working directory*
-**ls -a :** 
+*list down data of current working directory*  
+**ls -a :**  
 *list down hidden repo also*
 **pwd :** 
 #### path of current working directory
