@@ -41,14 +41,14 @@
 **git commit -m "commit message" :** *saving changes to git*  
 **git push origin master :** *push to github repository as (master)*  
 **git pull origin master:** *used to fetch and download content from a remote repository*  
-**git branch 'branch name' :** to create new branch*  
-**git branch -a :** see all branches created so far*  
-**git checkout 'branch name' :** switch to the branch*  
-**git branch -b 'branch name' :** to create new branch + switch to the branch*  
-**git merge 'new branch name' :** merge new branch into your current branch*  
-**git branch -d 'branch name' :** to delete branch*  
+**git branch 'branch name' :** *to create new branch*  
+**git branch -a :** *see all branches created so far*  
+**git checkout 'branch name' :** *switch to the branch*  
+**git branch -b 'branch name' :** *to create new branch + switch to the branch*  
+**git merge 'new branch name' :** *merge new branch into your current branch*  
+**git branch -d 'branch name' :** *to delete branch*  
 **history :** *to see all commands used by you till date*  
-**git stash :** takes your uncommitted changes (both staged and unstaged), take and hold them in stack (backstage)*  
+**git stash :** *takes your uncommitted changes (both staged and unstaged), take and hold them in stack (backstage)*  
 **git stash clear :** *to clear the stack (backstage)*  
 **git stash pop :** *applies the top stashed element and removes it from the stack (backstage)*  
 **git stash apply :** *applies the top stashed element and keeps it in the stack (backstage)*
