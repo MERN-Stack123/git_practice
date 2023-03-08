@@ -1,0 +1,16 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: darkgoldenrod;
+
+}
+h3{
+    text-align: center;
+    color: blueviolet;
+    font-size: x-large;
+}
+pre{
+    font-size: medium;
+}
